@@ -1,0 +1,34 @@
+.panel1{
+	margin-top: 15px;
+}
+.panel2{
+	background-color: #ee4699;
+	height: 15px;
+}
+.panel3{
+	padding: 30px;
+}
+.panel4{
+	padding:30px;
+}
+.img img{
+	border-radius: 150px;
+}
+.panel5{
+	background-color: rgba(102,54,0,1);
+	height: 15px;
+}
+.panel6{
+	background-color: #fff2d4;
+	height: 20px;
+}
+li{
+	list-style: none;
+	color:#fff;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.panel7{
+	padding: 30px;
+	margin-left: 60px;
+}
